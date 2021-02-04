@@ -1,0 +1,18 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.grid{
+    display: flex;
+    
+    flex-wrap: center;
+}
+
+.origami{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid;
+    border-width: 2px;
+}
